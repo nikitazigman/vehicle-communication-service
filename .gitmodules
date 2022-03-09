@@ -1,0 +1,9 @@
+[submodule "django_authentication_service"]
+	path = django_authentication_service
+	url = git@github.com:nikitazigman/django_authentication_service.git
+[submodule "Django_vehicle_models_service"]
+	path = Django_vehicle_models_service
+	url = git@github.com:nikitazigman/Django_vehicle_models_service.git
+[submodule "django_user_vehicle_service"]
+	path = django_user_vehicle_service
+	url = git@github.com:nikitazigman/django_user_vehicle_service.git
